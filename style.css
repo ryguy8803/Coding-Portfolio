@@ -41,7 +41,7 @@ header {
 .site-heading h1 { margin: 0; color: white; font-size: clamp(1.7rem, 4vw, 2.5rem); }
 .eyebrow { margin: 0 0 4px; color: #b8d9bc; font-size: .78rem; font-weight: bold; letter-spacing: .14em; text-transform: uppercase; }
 
-main { padding: 42px 32px 20px; }
+main { width: 100vw; margin-left: calc(50% - 50vw); padding: 42px 32px 20px; }
 
 .project-tools { margin-bottom: 10px; }
 .project-tools label { display: block; margin-bottom: 8px; font-weight: bold; }
